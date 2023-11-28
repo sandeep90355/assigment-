@@ -1,0 +1,661 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="892" viewBox="0 0 412 892">
+  <defs>
+    <style>
+      .cls-1, .cls-12 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Google_Pixel_7_Pro_6_Pro_3);
+      }
+
+      .cls-14, .cls-15, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6, .cls-7 {
+        font-size: 6px;
+      }
+
+      .cls-19, .cls-21, .cls-25, .cls-26, .cls-6, .cls-7 {
+        font-family: TrebuchetMS-Bold, Trebuchet MS;
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-9 {
+        fill: url(#pattern);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-11, .cls-12 {
+        stroke: #707070;
+      }
+
+      .cls-13 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-14 {
+        opacity: 0.65;
+        mix-blend-mode: screen;
+      }
+
+      .cls-15 {
+        mix-blend-mode: lighten;
+      }
+
+      .cls-16 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-17 {
+        fill: #707070;
+      }
+
+      .cls-18 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-19 {
+        fill: #261f1f;
+        opacity: 0.53;
+      }
+
+      .cls-19, .cls-21 {
+        font-size: 20px;
+      }
+
+      .cls-20 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-21 {
+        fill: #10ee08;
+      }
+
+      .cls-22 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-23 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-24 {
+        clip-path: url(#clip-path-7);
+      }
+
+      .cls-25 {
+        fill: #eef5ee;
+        font-size: 23px;
+      }
+
+      .cls-26 {
+        fill: #084711;
+        font-size: 18px;
+      }
+
+      .cls-27 {
+        fill: #d3c8c8;
+        font-size: 13px;
+        font-family: TrebuchetMS, Trebuchet MS;
+      }
+
+      .cls-28 {
+        stroke: none;
+      }
+
+      .cls-29 {
+        filter: url(#Forgot_Password_2);
+      }
+
+      .cls-30 {
+        filter: url(#Rectangle_3-4);
+      }
+
+      .cls-31 {
+        filter: url(#Rectangle_3-3);
+      }
+
+      .cls-32 {
+        filter: url(#Rectangle_2-4);
+      }
+
+      .cls-33 {
+        filter: url(#Rectangle_2-3);
+      }
+
+      .cls-34 {
+        filter: url(#password-8);
+      }
+
+      .cls-35 {
+        filter: url(#password-7);
+      }
+
+      .cls-36 {
+        filter: url(#password-6);
+      }
+
+      .cls-37 {
+        filter: url(#password-5);
+      }
+
+      .cls-38 {
+        filter: url(#Rectangle_1-4);
+      }
+
+      .cls-39 {
+        filter: url(#Rectangle_1-3);
+      }
+
+      .cls-40 {
+        filter: url(#Forgot_Password_);
+      }
+
+      .cls-41 {
+        filter: url(#Rectangle_3-2);
+      }
+
+      .cls-42 {
+        filter: url(#Rectangle_3);
+      }
+
+      .cls-43 {
+        filter: url(#Rectangle_2-2);
+      }
+
+      .cls-44 {
+        filter: url(#Rectangle_2);
+      }
+
+      .cls-45 {
+        filter: url(#password-4);
+      }
+
+      .cls-46 {
+        filter: url(#password-3);
+      }
+
+      .cls-47 {
+        filter: url(#password-2);
+      }
+
+      .cls-48 {
+        filter: url(#password);
+      }
+
+      .cls-49 {
+        filter: url(#Rectangle_1-2);
+      }
+
+      .cls-50 {
+        filter: url(#Rectangle_1);
+      }
+    </style>
+    <filter id="Rectangle_1" x="-1.5" y="-1.657" width="421" height="901" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-2" x="-1.5" y="-1.657" width="421" height="901" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="94.624" height="2"/>
+    </clipPath>
+    <filter id="password" x="285.5" y="798.343" width="37" height="17" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="password-2" x="285.5" y="798.343" width="37" height="17" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="password-3" x="375.5" y="798.343" width="37" height="17" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="password-4" x="375.5" y="798.343" width="37" height="17" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-6"/>
+      <feFlood flood-opacity="0.161" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-6"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="90" height="91"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 90 90">
+      <image width="90" height="90" xlink:href="../../Downloads/Group%203.png"/>
+    </pattern>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" width="241" height="46"/>
+    </clipPath>
+    <filter id="Rectangle_2" x="93" y="383" width="241" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+    </filter>
+    <filter id="Rectangle_2-2" x="93" y="383" width="241" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-8"/>
+      <feFlood flood-opacity="0.161" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-8"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-4">
+      <rect class="cls-1" width="250" height="52.115"/>
+    </clipPath>
+    <filter id="Rectangle_3" x="89.5" y="460" width="250" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+    </filter>
+    <filter id="Rectangle_3-2" x="89.5" y="460" width="250" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-10"/>
+      <feFlood flood-opacity="0.161" result="color-5"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-10"/>
+      <feComposite operator="in" in="color-5"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#06f85e" stop-opacity="0.961"/>
+      <stop offset="1" stop-color="#03f13a"/>
+    </linearGradient>
+    <clipPath id="clip-path-5">
+      <rect class="cls-1" width="53" height="24"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect class="cls-1" width="162" height="24"/>
+    </clipPath>
+    <filter id="Forgot_Password_" x="116" y="643" width="180" height="42" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 257 196">
+      <image width="257" height="196" xlink:href="../../Downloads/signal.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 215 117">
+      <image width="215" height="117" xlink:href="../../Downloads/battery.png"/>
+    </pattern>
+    <clipPath id="clip-path-7">
+      <rect class="cls-1" width="77" height="27"/>
+    </clipPath>
+    <filter id="Rectangle_1-3" x="-1.5" y="-1.657" width="421" height="901" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-4" x="-1.5" y="-1.657" width="421" height="901" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-13"/>
+      <feFlood flood-opacity="0.161" result="color-6"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-13"/>
+      <feComposite operator="in" in="color-6"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="password-5" x="285.5" y="798.343" width="37" height="17" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="password-6" x="285.5" y="798.343" width="37" height="17" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-15"/>
+      <feFlood flood-opacity="0.161" result="color-7"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-15"/>
+      <feComposite operator="in" in="color-7"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="password-7" x="375.5" y="798.343" width="37" height="17" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-16"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="password-8" x="375.5" y="798.343" width="37" height="17" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-17"/>
+      <feFlood flood-opacity="0.161" result="color-8"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-17"/>
+      <feComposite operator="in" in="color-8"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2-3" x="93" y="383" width="241" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-18"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-18"/>
+    </filter>
+    <filter id="Rectangle_2-4" x="93" y="383" width="241" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-19"/>
+      <feFlood flood-opacity="0.161" result="color-9"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-19"/>
+      <feComposite operator="in" in="color-9"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-3" x="89.5" y="460" width="250" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-20"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-20"/>
+    </filter>
+    <filter id="Rectangle_3-4" x="89.5" y="460" width="250" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-21"/>
+      <feFlood flood-opacity="0.161" result="color-10"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-21"/>
+      <feComposite operator="in" in="color-10"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Forgot_Password_2" x="116" y="643" width="180" height="42" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-22"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Google_Pixel_7_Pro_6_Pro_3">
+      <rect width="412" height="892"/>
+    </clipPath>
+    <image id="image" width="24" height="24" xlink:href="../../Downloads/wifi.png"/>
+  </defs>
+  <g id="Google_Pixel_7_Pro_6_Pro_3" data-name="Google Pixel 7 Pro, 6 Pro – 3" class="cls-2">
+    <rect class="cls-4" width="412" height="892"/>
+    <g id="Group_1" data-name="Group 1" class="cls-3" transform="translate(14 425.5)">
+      <g data-type="innerShadowGroup">
+        <g class="cls-50" transform="matrix(1, 0, 0, 1, -14, -425.5)">
+          <rect id="Rectangle_1-5" data-name="Rectangle 1" width="412" height="892" transform="translate(0 -0.16)"/>
+        </g>
+        <g class="cls-49" transform="matrix(1, 0, 0, 1, -14, -425.5)">
+          <rect id="Rectangle_1-6" data-name="Rectangle 1" class="cls-4" width="412" height="892" transform="translate(0 -0.16)"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_7" data-name="Repeat Grid 7" class="cls-5" transform="translate(93 115.343)">
+        <g transform="translate(-94 -149)">
+          <g data-type="innerShadowGroup">
+            <g class="cls-48" transform="matrix(1, 0, 0, 1, -13, -391.84)">
+              <text id="password-9" data-name="password" class="cls-6" transform="translate(301 805.84)"><tspan x="-13.002" y="0">password</tspan></text>
+            </g>
+            <g class="cls-47" transform="matrix(1, 0, 0, 1, -13, -391.84)">
+              <text id="password-10" data-name="password" class="cls-7" transform="translate(301 805.84)"><tspan x="-13.002" y="0">password</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-4 -149)">
+          <g data-type="innerShadowGroup">
+            <g class="cls-46" transform="matrix(1, 0, 0, 1, -103, -391.84)">
+              <text id="password-11" data-name="password" class="cls-6" transform="translate(391 805.84)"><tspan x="-13.002" y="0">password</tspan></text>
+            </g>
+            <g class="cls-45" transform="matrix(1, 0, 0, 1, -103, -391.84)">
+              <text id="password-12" data-name="password" class="cls-7" transform="translate(391 805.84)"><tspan x="-13.002" y="0">password</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" class="cls-8" transform="translate(175 187)">
+      <g transform="translate(-175 -283)">
+        <rect id="Group_3" data-name="Group 3" class="cls-9" width="90" height="90" rx="43" transform="translate(175 283)"/>
+      </g>
+    </g>
+    <g id="Group_32" data-name="Group 32" transform="translate(0 -1)">
+      <g id="Group_30" data-name="Group 30" transform="translate(93 384)">
+        <g id="Group_9" data-name="Group 9">
+          <g id="Repeat_Grid_3" data-name="Repeat Grid 3" class="cls-10">
+            <g transform="translate(-71.5 -61.5)">
+              <g data-type="innerShadowGroup">
+                <g class="cls-44" transform="matrix(1, 0, 0, 1, -21.5, -321.5)">
+                  <g id="Rectangle_2-5" data-name="Rectangle 2" class="cls-11" transform="translate(94.5 384.5)">
+                    <rect class="cls-28" width="232" height="42" rx="21"/>
+                    <rect class="cls-1" x="0.5" y="0.5" width="231" height="41" rx="20.5"/>
+                  </g>
+                </g>
+                <rect id="Rectangle_2-6" data-name="Rectangle 2" width="232" height="42" rx="21" transform="translate(73 63)"/>
+                <g class="cls-43" transform="matrix(1, 0, 0, 1, -21.5, -321.5)">
+                  <rect id="Rectangle_2-7" data-name="Rectangle 2" class="cls-4" width="232" height="42" rx="21" transform="translate(94.5 384.5)"/>
+                </g>
+                <g id="Rectangle_2-8" data-name="Rectangle 2" class="cls-12" transform="translate(73 63)">
+                  <rect class="cls-28" width="232" height="42" rx="21"/>
+                  <rect class="cls-1" x="0.5" y="0.5" width="231" height="41" rx="20.5"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_29" data-name="Group 29">
+      <g id="Repeat_Grid_8" data-name="Repeat Grid 8" class="cls-13" transform="translate(89.5 460)">
+        <g transform="translate(-67.5 -98.5)">
+          <g data-type="innerShadowGroup">
+            <g class="cls-42" transform="matrix(1, 0, 0, 1, -22, -361.5)">
+              <g id="Rectangle_3-5" data-name="Rectangle 3" class="cls-12" transform="translate(91 461.5)">
+                <rect class="cls-28" width="241" height="45" rx="22.5"/>
+                <rect class="cls-1" x="0.5" y="0.5" width="240" height="44" rx="22"/>
+              </g>
+            </g>
+            <g class="cls-41" transform="matrix(1, 0, 0, 1, -22, -361.5)">
+              <rect id="Rectangle_3-6" data-name="Rectangle 3" class="cls-4" width="241" height="45" rx="22.5" transform="translate(91 461.5)"/>
+            </g>
+            <g id="Rectangle_3-7" data-name="Rectangle 3" class="cls-12" transform="translate(69 100)">
+              <rect class="cls-28" width="241" height="45" rx="22.5"/>
+              <rect class="cls-1" x="0.5" y="0.5" width="240" height="44" rx="22"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_18" data-name="Group 18" class="cls-14">
+      <g id="Group_5" data-name="Group 5" transform="translate(29 383)">
+        <g id="Rectangle_4" data-name="Rectangle 4" class="cls-15">
+          <rect id="Rectangle_4-2" data-name="Rectangle 4" class="cls-16" width="226" height="44" rx="19" transform="translate(64 200)"/>
+          <path id="Rectangle_4_-_Outline" data-name="Rectangle 4 - Outline" class="cls-17" d="M19,1A18,18,0,0,0,1,19v6A18,18,0,0,0,19,43H207a18,18,0,0,0,18-18V19A18,18,0,0,0,207,1H19m0-1H207a19,19,0,0,1,19,19v6a19,19,0,0,1-19,19H19A19,19,0,0,1,0,25V19A19,19,0,0,1,19,0Z" transform="translate(64 200)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_17" data-name="Group 17">
+      <g id="Group_6" data-name="Group 6" transform="translate(37 379)">
+        <g id="Repeat_Grid_11" data-name="Repeat Grid 11" class="cls-18" transform="translate(151 210)">
+          <g transform="translate(-93 -203)">
+            <text id="Login" class="cls-19" transform="translate(119 222)"><tspan x="-25.093" y="0">Login</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(37 379)">
+        <g id="Repeat_Grid_12" data-name="Repeat Grid 12" class="cls-20" transform="translate(88 270)">
+          <g transform="translate(-39 -294)">
+            <g class="cls-40" transform="matrix(1, 0, 0, 1, -86, -355)">
+              <text id="Forgot_Password_3" data-name="Forgot Password?" class="cls-21" transform="translate(206 668)"><tspan x="-80.249" y="0">Forgot Password?</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="signal" class="cls-22" width="29" height="23" transform="translate(227 46)"/>
+    <use id="wifi" transform="translate(270 45)" xlink:href="#image"/>
+    <rect id="battery" class="cls-23" width="44" height="24" transform="translate(319 45)"/>
+    <g id="Repeat_Grid_13" data-name="Repeat Grid 13" class="cls-24" transform="translate(17 46)">
+      <g transform="translate(19 336)">
+        <text id="_11:30" data-name="11:30" class="cls-25" transform="translate(13 -314)"><tspan x="-31.176" y="0">11:30</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(55 379)">
+      <text id="We_are_Electric" data-name="We are Electric" class="cls-26" transform="translate(151 -63)"><tspan x="-64.455" y="0">We are Electric</tspan></text>
+    </g>
+    <rect id="password-13" data-name="password" class="cls-1" width="74" height="14" transform="translate(192 477)"/>
+    <text id="Email_id" data-name="Email id" class="cls-27" transform="translate(148 410)"><tspan x="-23.496" y="0">Email id</tspan></text>
+    <text id="Password-14" data-name="Password" class="cls-27" transform="translate(151 488)"><tspan x="-26.47" y="0">Password</tspan></text>
+    <g id="Group_33" data-name="Group 33" class="cls-3" transform="translate(14 425.5)">
+      <g data-type="innerShadowGroup">
+        <g class="cls-39" transform="matrix(1, 0, 0, 1, -14, -425.5)">
+          <rect id="Rectangle_1-7" data-name="Rectangle 1" width="412" height="892" transform="translate(0 -0.16)"/>
+        </g>
+        <g class="cls-38" transform="matrix(1, 0, 0, 1, -14, -425.5)">
+          <rect id="Rectangle_1-8" data-name="Rectangle 1" class="cls-4" width="412" height="892" transform="translate(0 -0.16)"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_7-2" data-name="Repeat Grid 7" class="cls-5" transform="translate(93 115.343)">
+        <g transform="translate(-94 -149)">
+          <g data-type="innerShadowGroup">
+            <g class="cls-37" transform="matrix(1, 0, 0, 1, -13, -391.84)">
+              <text id="password-15" data-name="password" class="cls-6" transform="translate(301 805.84)"><tspan x="-13.002" y="0">password</tspan></text>
+            </g>
+            <g class="cls-36" transform="matrix(1, 0, 0, 1, -13, -391.84)">
+              <text id="password-16" data-name="password" class="cls-7" transform="translate(301 805.84)"><tspan x="-13.002" y="0">password</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-4 -149)">
+          <g data-type="innerShadowGroup">
+            <g class="cls-35" transform="matrix(1, 0, 0, 1, -103, -391.84)">
+              <text id="password-17" data-name="password" class="cls-6" transform="translate(391 805.84)"><tspan x="-13.002" y="0">password</tspan></text>
+            </g>
+            <g class="cls-34" transform="matrix(1, 0, 0, 1, -103, -391.84)">
+              <text id="password-18" data-name="password" class="cls-7" transform="translate(391 805.84)"><tspan x="-13.002" y="0">password</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_48" data-name="Repeat Grid 48" class="cls-8" transform="translate(175 187)">
+      <g transform="translate(-175 -283)">
+        <rect id="Group_3-2" data-name="Group 3" class="cls-9" width="90" height="90" rx="43" transform="translate(175 283)"/>
+      </g>
+    </g>
+    <g id="Group_34" data-name="Group 34" transform="translate(0 -1)">
+      <g id="Group_30-2" data-name="Group 30" transform="translate(93 384)">
+        <g id="Group_9-2" data-name="Group 9">
+          <g id="Repeat_Grid_3-2" data-name="Repeat Grid 3" class="cls-10">
+            <g transform="translate(-71.5 -61.5)">
+              <g data-type="innerShadowGroup">
+                <g class="cls-33" transform="matrix(1, 0, 0, 1, -21.5, -321.5)">
+                  <g id="Rectangle_2-9" data-name="Rectangle 2" class="cls-11" transform="translate(94.5 384.5)">
+                    <rect class="cls-28" width="232" height="42" rx="21"/>
+                    <rect class="cls-1" x="0.5" y="0.5" width="231" height="41" rx="20.5"/>
+                  </g>
+                </g>
+                <rect id="Rectangle_2-10" data-name="Rectangle 2" width="232" height="42" rx="21" transform="translate(73 63)"/>
+                <g class="cls-32" transform="matrix(1, 0, 0, 1, -21.5, -321.5)">
+                  <rect id="Rectangle_2-11" data-name="Rectangle 2" class="cls-4" width="232" height="42" rx="21" transform="translate(94.5 384.5)"/>
+                </g>
+                <g id="Rectangle_2-12" data-name="Rectangle 2" class="cls-12" transform="translate(73 63)">
+                  <rect class="cls-28" width="232" height="42" rx="21"/>
+                  <rect class="cls-1" x="0.5" y="0.5" width="231" height="41" rx="20.5"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_35" data-name="Group 35">
+      <g id="Repeat_Grid_8-2" data-name="Repeat Grid 8" class="cls-13" transform="translate(89.5 460)">
+        <g transform="translate(-67.5 -98.5)">
+          <g data-type="innerShadowGroup">
+            <g class="cls-31" transform="matrix(1, 0, 0, 1, -22, -361.5)">
+              <g id="Rectangle_3-8" data-name="Rectangle 3" class="cls-12" transform="translate(91 461.5)">
+                <rect class="cls-28" width="241" height="45" rx="22.5"/>
+                <rect class="cls-1" x="0.5" y="0.5" width="240" height="44" rx="22"/>
+              </g>
+            </g>
+            <g class="cls-30" transform="matrix(1, 0, 0, 1, -22, -361.5)">
+              <rect id="Rectangle_3-9" data-name="Rectangle 3" class="cls-4" width="241" height="45" rx="22.5" transform="translate(91 461.5)"/>
+            </g>
+            <g id="Rectangle_3-10" data-name="Rectangle 3" class="cls-12" transform="translate(69 100)">
+              <rect class="cls-28" width="241" height="45" rx="22.5"/>
+              <rect class="cls-1" x="0.5" y="0.5" width="240" height="44" rx="22"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_36" data-name="Group 36" class="cls-14">
+      <g id="Group_5-2" data-name="Group 5" transform="translate(29 383)">
+        <g id="Rectangle_4-3" data-name="Rectangle 4" class="cls-15">
+          <rect id="Rectangle_4-4" data-name="Rectangle 4" class="cls-16" width="226" height="44" rx="19" transform="translate(64 200)"/>
+          <path id="Rectangle_4_-_Outline-2" data-name="Rectangle 4 - Outline" class="cls-17" d="M19,1A18,18,0,0,0,1,19v6A18,18,0,0,0,19,43H207a18,18,0,0,0,18-18V19A18,18,0,0,0,207,1H19m0-1H207a19,19,0,0,1,19,19v6a19,19,0,0,1-19,19H19A19,19,0,0,1,0,25V19A19,19,0,0,1,19,0Z" transform="translate(64 200)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_37" data-name="Group 37">
+      <g id="Group_6-2" data-name="Group 6" transform="translate(37 379)">
+        <g id="Repeat_Grid_11-2" data-name="Repeat Grid 11" class="cls-18" transform="translate(151 210)">
+          <g transform="translate(-93 -203)">
+            <text id="Login-2" data-name="Login" class="cls-19" transform="translate(119 222)"><tspan x="-25.093" y="0">Login</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_7-2" data-name="Group 7" transform="translate(37 379)">
+        <g id="Repeat_Grid_12-2" data-name="Repeat Grid 12" class="cls-20" transform="translate(88 270)">
+          <g transform="translate(-39 -294)">
+            <g class="cls-29" transform="matrix(1, 0, 0, 1, -86, -355)">
+              <text id="Forgot_Password_4" data-name="Forgot Password?" class="cls-21" transform="translate(206 668)"><tspan x="-80.249" y="0">Forgot Password?</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="signal-2" data-name="signal" class="cls-22" width="29" height="23" transform="translate(227 46)"/>
+    <use id="wifi-2" data-name="wifi" transform="translate(270 45)" xlink:href="#image"/>
+    <rect id="battery-2" data-name="battery" class="cls-23" width="44" height="24" transform="translate(319 45)"/>
+    <g id="Repeat_Grid_49" data-name="Repeat Grid 49" class="cls-24" transform="translate(17 46)">
+      <g transform="translate(19 336)">
+        <text id="_11:30-2" data-name="11:30" class="cls-25" transform="translate(13 -314)"><tspan x="-31.176" y="0">11:30</tspan></text>
+      </g>
+    </g>
+    <g id="Group_38" data-name="Group 38" transform="translate(55 379)">
+      <text id="We_are_Electric-2" data-name="We are Electric" class="cls-26" transform="translate(151 -63)"><tspan x="-64.455" y="0">We are Electric</tspan></text>
+    </g>
+    <rect id="password-19" data-name="password" class="cls-1" width="74" height="14" transform="translate(192 477)"/>
+    <text id="Email_id-2" data-name="Email id" class="cls-27" transform="translate(148 410)"><tspan x="-23.496" y="0">Email id</tspan></text>
+    <text id="Password-20" data-name="Password" class="cls-27" transform="translate(151 488)"><tspan x="-26.47" y="0">Password</tspan></text>
+  </g>
+</svg>

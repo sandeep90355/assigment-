@@ -1,0 +1,298 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="898" viewBox="0 0 412 898">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Google_Pixel_7_Pro_6_Pro_4);
+      }
+
+      .cls-3 {
+        fill: #707070;
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        fill: #12f967;
+        font-size: 20px;
+      }
+
+      .cls-15, .cls-20, .cls-22, .cls-23, .cls-7 {
+        font-family: TrebuchetMS-Bold, Trebuchet MS;
+        font-weight: 700;
+      }
+
+      .cls-17, .cls-8 {
+        mix-blend-mode: lighten;
+      }
+
+      .cls-17, .cls-27, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-9 {
+        fill: #303030;
+      }
+
+      .cls-10 {
+        fill: #171616;
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-12 {
+        fill: #1d1c1c;
+      }
+
+      .cls-13 {
+        fill: #3b3939;
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-15, .cls-16 {
+        fill: #b4b4b4;
+      }
+
+      .cls-15 {
+        font-size: 18px;
+      }
+
+      .cls-16 {
+        font-size: 11px;
+        font-family: TrebuchetMS, Trebuchet MS;
+      }
+
+      .cls-17 {
+        fill: #292929;
+      }
+
+      .cls-18 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-19 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-20 {
+        fill: #eef5ee;
+        font-size: 23px;
+      }
+
+      .cls-21 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-22, .cls-23 {
+        fill: #c5c4c4;
+      }
+
+      .cls-22 {
+        font-size: 16px;
+      }
+
+      .cls-23 {
+        font-size: 13px;
+      }
+
+      .cls-24 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-25 {
+        clip-path: url(#clip-path-7);
+      }
+
+      .cls-26 {
+        clip-path: url(#clip-path-8);
+      }
+
+      .cls-27 {
+        mix-blend-mode: overlay;
+      }
+
+      .cls-28 {
+        fill: #fff;
+      }
+
+      .cls-29 {
+        clip-path: url(#clip-path-9);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 215 117">
+      <image width="215" height="117" xlink:href="../../Downloads/battery.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 257 196">
+      <image width="257" height="196" xlink:href="../../Downloads/signal.png"/>
+    </pattern>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="14" height="23"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="330" height="453"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" width="286" height="24"/>
+    </clipPath>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 225 225">
+      <image width="225" height="225" xlink:href="../../Downloads/home.png"/>
+    </pattern>
+    <clipPath id="clip-path-4">
+      <rect class="cls-1" width="64" height="27"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect class="cls-1" width="52" height="19"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect class="cls-1" width="8" height="15"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect class="cls-1" width="38" height="15"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect class="cls-1" width="42" height="15"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect class="cls-1" width="206" height="15"/>
+    </clipPath>
+    <clipPath id="clip-Google_Pixel_7_Pro_6_Pro_4">
+      <rect width="412" height="898"/>
+    </clipPath>
+  </defs>
+  <g id="Google_Pixel_7_Pro_6_Pro_4" data-name="Google Pixel 7 Pro, 6 Pro – 4" class="cls-2">
+    <rect class="cls-28" width="412" height="898"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="412" height="892" rx="8" transform="translate(0 6)"/>
+    <path id="Rectangle_5_-_Outline" data-name="Rectangle 5 - Outline" class="cls-3" d="M8,1A7.008,7.008,0,0,0,1,8V884a7.008,7.008,0,0,0,7,7H404a7.008,7.008,0,0,0,7-7V8a7.008,7.008,0,0,0-7-7H8M8,0H404a8,8,0,0,1,8,8V884a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" transform="translate(0 6)"/>
+    <image id="moptro_logo" data-name="moptro logo" width="71" height="70" transform="translate(182 157)" xlink:href="../../Downloads/moptro%20logo.png"/>
+    <image id="Group_46" data-name="Group 46" width="52" height="52" transform="translate(340 64)" xlink:href="../../Downloads/Group%2046.png"/>
+    <rect id="battery" class="cls-4" width="42" height="23" transform="translate(340 18)"/>
+    <image id="wifi" width="24" height="24" transform="translate(292 17)" xlink:href="../../Downloads/wifi.png"/>
+    <rect id="signal" class="cls-5" width="29" height="23" transform="translate(239 17)"/>
+    <g id="Repeat_Grid_15" data-name="Repeat Grid 15" class="cls-6" transform="translate(250 145)">
+      <g transform="translate(-781 74)">
+        <text id="_4" data-name="4" class="cls-7" transform="translate(787 -55)"><tspan x="-5.859" y="0">4</tspan></text>
+      </g>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(2 2)">
+      <g id="Group_14" data-name="Group 14" transform="translate(239 135)">
+        <g id="Group_13" data-name="Group 13">
+          <g id="Group_12" data-name="Group 12">
+            <g id="Ellipse_1" data-name="Ellipse 1" class="cls-8">
+              <ellipse id="Ellipse_1-2" data-name="Ellipse 1" class="cls-9" cx="18.5" cy="19" rx="18.5" ry="19"/>
+              <path id="Ellipse_1_-_Outline" data-name="Ellipse 1 - Outline" class="cls-10" d="M18.5,1A17.145,17.145,0,0,0,6.135,6.263a18.365,18.365,0,0,0,0,25.475,17.158,17.158,0,0,0,24.73,0,18.365,18.365,0,0,0,0-25.475A17.145,17.145,0,0,0,18.5,1m0-1A18.755,18.755,0,0,1,37,19,18.755,18.755,0,0,1,18.5,38,18.755,18.755,0,0,1,0,19,18.755,18.755,0,0,1,18.5,0Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_26" data-name="Repeat Grid 26" class="cls-11" transform="translate(53 342)">
+      <g transform="translate(-608 67)">
+        <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-12" width="333" height="485" rx="26" transform="translate(608 -67)"/>
+      </g>
+    </g>
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-13" width="333" height="53" rx="26.5" transform="translate(53 289)"/>
+    <g id="Repeat_Grid_17" data-name="Repeat Grid 17" class="cls-14" transform="translate(77 307)">
+      <g transform="translate(-526 47)">
+        <text id="Employee_List" data-name="Employee List" class="cls-15" transform="translate(669 -30)"><tspan x="-58.808" y="0">Employee List</tspan></text>
+      </g>
+    </g>
+    <text id="_" data-name="
+" class="cls-16" transform="translate(39 464)"><tspan x="0" y="0"></tspan><tspan x="0" y="19"></tspan></text>
+    <g id="Group_8" data-name="Group 8" transform="translate(-576 331)">
+      <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-17" width="369" height="59" rx="29.5" transform="translate(590 488)"/>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(-540 331)">
+      <image id="user" width="44" height="44" transform="translate(858 496)" xlink:href="../../Downloads/user.png"/>
+    </g>
+    <rect id="home" class="cls-18" width="43" height="44" transform="translate(66 829)"/>
+    <g id="Repeat_Grid_14" data-name="Repeat Grid 14" class="cls-19" transform="translate(12 21)">
+      <g transform="translate(19 336)">
+        <text id="_11:30" data-name="11:30" class="cls-20" transform="translate(13 -314)"><tspan x="-31.176" y="0">11:30</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_41" data-name="Repeat Grid 41" class="cls-21" transform="translate(66 374)">
+      <g transform="translate(-77 -370)">
+        <text id="EMP_ID" data-name="EMP ID" class="cls-22" transform="translate(77 385)"><tspan x="0" y="0">EMP ID</tspan></text>
+      </g>
+      <g transform="translate(-26 -370)">
+        <text id="EMP_ID-2" data-name="EMP ID" class="cls-22" transform="translate(77 385)"><tspan x="0" y="0">EMP ID</tspan></text>
+      </g>
+    </g>
+    <path id="Line_3" data-name="Line 3" class="cls-3" d="M330,.5H0v-1H330Z" transform="translate(53.5 399.5)"/>
+    <text id="Name" class="cls-22" transform="translate(170 389)"><tspan x="-21.074" y="0">Name</tspan></text>
+    <text id="_1" data-name="1" class="cls-23" transform="translate(77 431)"><tspan x="-7.617" y="0">1</tspan></text>
+    <text id="Arjun" class="cls-23" transform="translate(206 431)"><tspan x="-33.909" y="0">Arjun</tspan></text>
+    <text id="_2" data-name="2" class="cls-23" transform="translate(77 481)"><tspan x="-7.617" y="0">2</tspan></text>
+    <text id="mahesh" class="cls-23" transform="translate(217 481)"><tspan x="-46.579" y="0">mahesh</tspan></text>
+    <g id="Repeat_Grid_42" data-name="Repeat Grid 42" class="cls-24" transform="translate(69 519)">
+      <g transform="translate(-65 -539)">
+        <text id="_3" data-name="3" class="cls-23" transform="translate(73 551)"><tspan x="-7.617" y="0">3</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_43" data-name="Repeat Grid 43" class="cls-25" transform="translate(172 519)">
+      <g transform="translate(-132 -522)">
+        <text id="rajesh" class="cls-23" transform="translate(170 534)"><tspan x="-37.616" y="0">rajesh</tspan></text>
+      </g>
+    </g>
+    <text id="_4-2" data-name="4" class="cls-23" transform="translate(77 581)"><tspan x="-7.617" y="0">4</tspan></text>
+    <g id="Repeat_Grid_44" data-name="Repeat Grid 44" class="cls-26" transform="translate(170 569)">
+      <g transform="translate(-130 -572)">
+        <text id="vikram" class="cls-23" transform="translate(172 584)"><tspan x="-41.507" y="0">vikram</tspan></text>
+      </g>
+    </g>
+    <g id="Group_19" data-name="Group 19">
+      <g id="Rectangle_25" data-name="Rectangle 25" class="cls-27">
+        <rect id="Rectangle_25-2" data-name="Rectangle 25" class="cls-28" width="330" height="28" transform="translate(53 413)"/>
+        <path id="Rectangle_25_-_Outline" data-name="Rectangle 25 - Outline" class="cls-3" d="M1,1V27H329V1H1M0,0H330V28H0Z" transform="translate(53 413)"/>
+      </g>
+    </g>
+    <g id="Group_20" data-name="Group 20">
+      <g id="Rectangle_26" data-name="Rectangle 26" class="cls-27">
+        <rect id="Rectangle_26-2" data-name="Rectangle 26" class="cls-28" width="330" height="28" transform="translate(53 463)"/>
+        <path id="Rectangle_26_-_Outline" data-name="Rectangle 26 - Outline" class="cls-3" d="M1,1V27H329V1H1M0,0H330V28H0Z" transform="translate(53 463)"/>
+      </g>
+    </g>
+    <g id="Group_21" data-name="Group 21">
+      <g id="Rectangle_27" data-name="Rectangle 27" class="cls-27">
+        <rect id="Rectangle_27-2" data-name="Rectangle 27" class="cls-28" width="330" height="28" transform="translate(52 513)"/>
+        <path id="Rectangle_27_-_Outline" data-name="Rectangle 27 - Outline" class="cls-3" d="M1,1V27H329V1H1M0,0H330V28H0Z" transform="translate(52 513)"/>
+      </g>
+    </g>
+    <g id="Group_22" data-name="Group 22">
+      <g id="Rectangle_28" data-name="Rectangle 28" class="cls-27">
+        <rect id="Rectangle_28-2" data-name="Rectangle 28" class="cls-28" width="330" height="28" transform="translate(52 563)"/>
+        <path id="Rectangle_28_-_Outline" data-name="Rectangle 28 - Outline" class="cls-3" d="M1,1V27H329V1H1M0,0H330V28H0Z" transform="translate(52 563)"/>
+      </g>
+    </g>
+    <g id="Group_24" data-name="Group 24">
+      <rect id="Rectangle_29" data-name="Rectangle 29" class="cls-28" width="330" height="38" rx="19" transform="translate(53 712)"/>
+      <path id="Rectangle_29_-_Outline" data-name="Rectangle 29 - Outline" class="cls-3" d="M19,1A18,18,0,0,0,6.272,31.728,17.882,17.882,0,0,0,19,37H311A18,18,0,0,0,323.728,6.272,17.882,17.882,0,0,0,311,1H19m0-1H311a19,19,0,0,1,0,38H19A19,19,0,0,1,19,0Z" transform="translate(53 712)"/>
+    </g>
+    <path id="Line_4" data-name="Line 4" class="cls-3" d="M.5,249l-1,0L.5,0l1,0Z" transform="translate(136.5 342.5)"/>
+    <g id="Group_23" data-name="Group 23">
+      <g id="Repeat_Grid_45" data-name="Repeat Grid 45" class="cls-29" transform="translate(114 724)">
+        <g transform="translate(73 -724)">
+          <text id="Employee_Productivity_Dashboard" data-name="Employee Productivity Dashboard" class="cls-23" transform="translate(133 736)"><tspan x="-205.258" y="0">Employee Productivity Dashboard</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

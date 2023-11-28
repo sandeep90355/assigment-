@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="898" viewBox="0 0 412 898">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Google_Pixel_7_Pro_6_Pro_1);
+      }
+
+      .cls-3 {
+        fill: #707070;
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        fill: #12f967;
+        font-size: 20px;
+      }
+
+      .cls-15, .cls-33, .cls-7 {
+        font-family: TrebuchetMS-Bold, Trebuchet MS;
+        font-weight: 700;
+      }
+
+      .cls-28, .cls-8 {
+        mix-blend-mode: lighten;
+        isolation: isolate;
+      }
+
+      .cls-9 {
+        fill: #303030;
+      }
+
+      .cls-10 {
+        fill: #171616;
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-12 {
+        fill: #1d1c1c;
+      }
+
+      .cls-13 {
+        fill: #3b3939;
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-15, .cls-16, .cls-18 {
+        fill: #b4b4b4;
+      }
+
+      .cls-15 {
+        font-size: 18px;
+      }
+
+      .cls-16, .cls-22, .cls-24, .cls-27 {
+        font-size: 12px;
+      }
+
+      .cls-16, .cls-17, .cls-18, .cls-22, .cls-24, .cls-27 {
+        font-family: TrebuchetMS, Trebuchet MS;
+      }
+
+      .cls-17 {
+        fill: #08a427;
+        font-size: 14px;
+      }
+
+      .cls-18 {
+        font-size: 11px;
+      }
+
+      .cls-19 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-20 {
+        fill: #198015;
+      }
+
+      .cls-21 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-22, .cls-27 {
+        fill: #00a70b;
+      }
+
+      .cls-23 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-24 {
+        fill: #c5c4c4;
+      }
+
+      .cls-25 {
+        fill: #0c780f;
+      }
+
+      .cls-26 {
+        clip-path: url(#clip-path-7);
+      }
+
+      .cls-27 {
+        opacity: 0.89;
+      }
+
+      .cls-28 {
+        fill: #292929;
+      }
+
+      .cls-29 {
+        fill: #068724;
+      }
+
+      .cls-30 {
+        fill: #008824;
+      }
+
+      .cls-31 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-32 {
+        clip-path: url(#clip-path-11);
+      }
+
+      .cls-33 {
+        fill: #eef5ee;
+        font-size: 23px;
+      }
+
+      .cls-34 {
+        fill: #fff;
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 215 117">
+      <image width="215" height="117" xlink:href="../../Downloads/battery.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 257 196">
+      <image width="257" height="196" xlink:href="../../Downloads/signal.png"/>
+    </pattern>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="14" height="23"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="333" height="494"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" width="286" height="24"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect class="cls-1" width="208" height="8"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect class="cls-1" width="20" height="16"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect class="cls-1" width="133" height="13"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect class="cls-1" width="27" height="16"/>
+    </clipPath>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 225 225">
+      <image width="225" height="225" xlink:href="../../Downloads/home.png"/>
+    </pattern>
+    <clipPath id="clip-path-11">
+      <rect class="cls-1" width="64" height="27"/>
+    </clipPath>
+    <clipPath id="clip-Google_Pixel_7_Pro_6_Pro_1">
+      <rect width="412" height="898"/>
+    </clipPath>
+  </defs>
+  <g id="Google_Pixel_7_Pro_6_Pro_1" data-name="Google Pixel 7 Pro, 6 Pro – 1" class="cls-2">
+    <rect class="cls-34" width="412" height="898"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="412" height="892"/>
+    <path id="Rectangle_5_-_Outline" data-name="Rectangle 5 - Outline" class="cls-3" d="M1,1V891H411V1H1M0,0H412V892H0Z"/>
+    <image id="moptro_logo" data-name="moptro logo" width="71" height="70" transform="translate(182 157)" xlink:href="../../Downloads/moptro%20logo.png"/>
+    <image id="Group_46" data-name="Group 46" width="52" height="52" transform="translate(340 64)" xlink:href="../../Downloads/Group%2046.png"/>
+    <rect id="battery" class="cls-4" width="42" height="23" transform="translate(340 18)"/>
+    <image id="wifi" width="24" height="24" transform="translate(292 17)" xlink:href="../../Downloads/wifi.png"/>
+    <rect id="signal" class="cls-5" width="29" height="23" transform="translate(239 17)"/>
+    <g id="Repeat_Grid_15" data-name="Repeat Grid 15" class="cls-6" transform="translate(250 145)">
+      <g transform="translate(-781 74)">
+        <text id="_4" data-name="4" class="cls-7" transform="translate(787 -55)"><tspan x="-5.859" y="0">4</tspan></text>
+      </g>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(2 2)">
+      <g id="Group_14" data-name="Group 14" transform="translate(239 135)">
+        <g id="Group_13" data-name="Group 13">
+          <g id="Group_12" data-name="Group 12">
+            <g id="Ellipse_1" data-name="Ellipse 1" class="cls-8">
+              <ellipse id="Ellipse_1-2" data-name="Ellipse 1" class="cls-9" cx="18.5" cy="19" rx="18.5" ry="19"/>
+              <path id="Ellipse_1_-_Outline" data-name="Ellipse 1 - Outline" class="cls-10" d="M18.5,1A17.145,17.145,0,0,0,6.135,6.263a18.365,18.365,0,0,0,0,25.475,17.158,17.158,0,0,0,24.73,0,18.365,18.365,0,0,0,0-25.475A17.145,17.145,0,0,0,18.5,1m0-1A18.755,18.755,0,0,1,37,19,18.755,18.755,0,0,1,18.5,38,18.755,18.755,0,0,1,0,19,18.755,18.755,0,0,1,18.5,0Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_26" data-name="Repeat Grid 26" class="cls-11" transform="translate(58 293)">
+      <g transform="translate(-608 67)">
+        <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-12" width="333" height="485" rx="26" transform="translate(608 -67)"/>
+      </g>
+    </g>
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-13" width="333" height="53" rx="26.5" transform="translate(58 292)"/>
+    <g id="Repeat_Grid_17" data-name="Repeat Grid 17" class="cls-14" transform="translate(77 307)">
+      <g transform="translate(-526 47)">
+        <text id="Employee_productivity_Dashboard" data-name="Employee productivity Dashboard" class="cls-15" transform="translate(669 -30)"><tspan x="-142.062" y="0">Employee productivity Dashboard</tspan></text>
+      </g>
+    </g>
+    <text id="Productivity_on_Monday" data-name="Productivity on  Monday" class="cls-16" transform="translate(83 381)"><tspan x="0" y="0" xml:space="preserve">Productivity on  Monday</tspan></text>
+    <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-1" width="208" height="8" rx="4" transform="translate(84 395)"/>
+    <text id="_4_" data-name="4%" class="cls-17" transform="translate(340 381)"><tspan x="-7.872" y="0">4%</tspan></text>
+    <text id="Productivity_on_Tuesday" data-name="Productivity on Tuesday" class="cls-16" transform="translate(87 434)"><tspan x="0" y="0">Productivity on Tuesday</tspan></text>
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-1" width="208" height="8" rx="4" transform="translate(84 498)"/>
+    <text id="_" data-name="
+" class="cls-18" transform="translate(39 464)"><tspan x="0" y="0"></tspan><tspan x="0" y="19"></tspan></text>
+    <g id="Repeat_Grid_20" data-name="Repeat Grid 20" class="cls-19" transform="translate(82 446)">
+      <g transform="translate(-618 -73)">
+        <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-1" width="208" height="8" rx="4" transform="translate(618 73)"/>
+      </g>
+    </g>
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-20" width="131" height="8" rx="4" transform="translate(83 448)"/>
+    <g id="Repeat_Grid_24" data-name="Repeat Grid 24" class="cls-21" transform="translate(330 421)">
+      <g transform="translate(-859 -60)">
+        <text id="_92_" data-name="92%" class="cls-22" transform="translate(859 71)"><tspan x="0" y="0">92%</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_25" data-name="Repeat Grid 25" class="cls-23" transform="translate(84 476)">
+      <g transform="translate(-667 -107)">
+        <text id="Productivity_on_Wednesday_" data-name="Productivity on Wednesday
+" class="cls-24" transform="translate(667 117)"><tspan x="0" y="0">Productivity on Wednesday</tspan><tspan x="0" y="18"></tspan></text>
+      </g>
+    </g>
+    <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-25" width="164" height="8" rx="4" transform="translate(82 498)"/>
+    <text id="Production_on_Thrusday" data-name="Production on Thrusday" class="cls-24" transform="translate(84 537)"><tspan x="0" y="0">Production on Thrusday</tspan></text>
+    <text id="Production_on_Friday" data-name="Production on Friday" class="cls-24" transform="translate(82 600)"><tspan x="0" y="0">Production on Friday</tspan></text>
+    <text id="Production_on_Saturday" data-name="Production on Saturday" class="cls-24" transform="translate(84 668)"><tspan x="0" y="0">Production on Saturday</tspan></text>
+    <rect id="Rectangle_14" data-name="Rectangle 14" class="cls-1" width="208" height="8" rx="4" transform="translate(82 555)"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" class="cls-25" width="136" height="8" rx="4" transform="translate(83 555)"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-1" width="208" height="8" rx="4" transform="translate(72 589)"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-1" width="208" height="8" rx="4" transform="translate(84 693)"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-25" width="126" height="8" rx="4" transform="translate(83 619)"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" class="cls-25" width="147" height="8" rx="4" transform="translate(84 693)"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" class="cls-1" width="208" height="8" rx="4" transform="translate(82 619)"/>
+    <g id="Repeat_Grid_27" data-name="Repeat Grid 27" class="cls-26" transform="translate(330 479)">
+      <g transform="translate(-859 -60)">
+        <text id="_122_" data-name="122%" class="cls-22" transform="translate(859 71)"><tspan x="0" y="0">122%</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_28" data-name="Repeat Grid 28" class="cls-21" transform="translate(334 537)">
+      <g transform="translate(-859 -60)">
+        <text id="_93_" data-name="93%" class="cls-27" transform="translate(859 71)"><tspan x="0" y="0">93%</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_29" data-name="Repeat Grid 29" class="cls-21" transform="translate(332 595)">
+      <g transform="translate(-859 -60)">
+        <text id="_89_" data-name="89%" class="cls-27" transform="translate(859 71)"><tspan x="0" y="0">89%</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_30" data-name="Repeat Grid 30" class="cls-21" transform="translate(334 653)">
+      <g transform="translate(-859 -60)">
+        <text id="_98_" data-name="98%" class="cls-22" transform="translate(859 71)"><tspan x="0" y="0">98%</tspan></text>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(-576 331)">
+      <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-28" width="369" height="59" rx="29.5" transform="translate(590 488)"/>
+    </g>
+    <g id="Group_10" data-name="Group 10" transform="translate(-540 331)">
+      <image id="user" width="44" height="44" transform="translate(858 496)" xlink:href="../../Downloads/user.png"/>
+    </g>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-29" width="15" height="8" rx="4" transform="translate(84 395)"/>
+    <path id="Rectangle_9_-_Outline" data-name="Rectangle 9 - Outline" class="cls-30" d="M4,1A3,3,0,0,0,4,7h7a3,3,0,0,0,0-6H4M4,0h7a4,4,0,0,1,0,8H4A4,4,0,0,1,4,0Z" transform="translate(84 395)"/>
+    <rect id="home" class="cls-31" width="43" height="44" transform="translate(66 829)"/>
+    <g id="Repeat_Grid_14" data-name="Repeat Grid 14" class="cls-32" transform="translate(12 21)">
+      <g transform="translate(19 336)">
+        <text id="_11:30" data-name="11:30" class="cls-33" transform="translate(13 -314)"><tspan x="-31.176" y="0">11:30</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

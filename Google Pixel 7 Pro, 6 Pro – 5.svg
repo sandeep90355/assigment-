@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="892" viewBox="0 0 412 892">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Google_Pixel_7_Pro_6_Pro_5);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        stroke: #707070;
+      }
+
+      .cls-5 {
+        fill: url(#pattern);
+      }
+
+      .cls-6 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-8 {
+        fill: #eef5ee;
+        font-size: 23px;
+      }
+
+      .cls-10, .cls-16, .cls-18, .cls-19, .cls-20, .cls-22, .cls-23, .cls-8 {
+        font-family: TrebuchetMS-Bold, Trebuchet MS;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-10 {
+        fill: #12f967;
+      }
+
+      .cls-10, .cls-23 {
+        font-size: 20px;
+      }
+
+      .cls-11 {
+        mix-blend-mode: lighten;
+        isolation: isolate;
+      }
+
+      .cls-12 {
+        fill: #303030;
+      }
+
+      .cls-13 {
+        fill: #171616;
+      }
+
+      .cls-14 {
+        fill: #1d1c1c;
+      }
+
+      .cls-15 {
+        fill: #2a2929;
+      }
+
+      .cls-16, .cls-18, .cls-25 {
+        fill: #fff;
+      }
+
+      .cls-16 {
+        font-size: 18px;
+      }
+
+      .cls-17 {
+        fill: #b4b4b4;
+        font-size: 11px;
+        font-family: TrebuchetMS, Trebuchet MS;
+      }
+
+      .cls-18, .cls-19, .cls-20, .cls-22 {
+        font-size: 13px;
+      }
+
+      .cls-19 {
+        fill: #de9414;
+      }
+
+      .cls-20 {
+        fill: #f5efef;
+      }
+
+      .cls-21 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-22 {
+        fill: #22e148;
+      }
+
+      .cls-23 {
+        fill: #204499;
+      }
+
+      .cls-24 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="412" height="892"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 215 117">
+      <image width="215" height="117" xlink:href="../../Downloads/battery.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 257 196">
+      <image width="257" height="196" xlink:href="../../Downloads/signal.png"/>
+    </pattern>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="64" height="27"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" width="14" height="23"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect class="cls-1" width="112" height="15"/>
+    </clipPath>
+    <clipPath id="clip-Google_Pixel_7_Pro_6_Pro_5">
+      <rect width="412" height="892"/>
+    </clipPath>
+  </defs>
+  <g id="Google_Pixel_7_Pro_6_Pro_5" data-name="Google Pixel 7 Pro, 6 Pro – 5" class="cls-2">
+    <rect class="cls-25" width="412" height="892"/>
+    <g id="Repeat_Grid_31" data-name="Repeat Grid 31" class="cls-3">
+      <g transform="translate(-47 92)">
+        <g id="Rectangle_1" data-name="Rectangle 1" class="cls-4" transform="translate(47 -92)">
+          <rect class="cls-24" width="412" height="892" rx="1"/>
+          <rect class="cls-1" x="0.5" y="0.5" width="411" height="891" rx="0.5"/>
+        </g>
+      </g>
+    </g>
+    <image id="moptro_logo" data-name="moptro logo" width="71" height="70" transform="translate(154 183)" xlink:href="../../Downloads/moptro%20logo.png"/>
+    <image id="Group_46" data-name="Group 46" width="52" height="52" transform="translate(321 86)" xlink:href="../../Downloads/Group%2046.png"/>
+    <rect id="battery" class="cls-5" width="42" height="23" transform="translate(322 29)"/>
+    <image id="wifi" width="24" height="24" transform="translate(276 28)" xlink:href="../../Downloads/wifi.png"/>
+    <rect id="signal" class="cls-6" width="29" height="23" transform="translate(225 28)"/>
+    <g id="Repeat_Grid_32" data-name="Repeat Grid 32" class="cls-7" transform="translate(13 24)">
+      <g transform="translate(19 336)">
+        <text id="_11:30" data-name="11:30" class="cls-8" transform="translate(13 -314)"><tspan x="-31.176" y="0">11:30</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_33" data-name="Repeat Grid 33" class="cls-9" transform="translate(219 160)">
+      <g transform="translate(-781 74)">
+        <text id="_4" data-name="4" class="cls-10" transform="translate(787 -55)"><tspan x="-5.859" y="0">4</tspan></text>
+      </g>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-11">
+      <ellipse id="Ellipse_2-2" data-name="Ellipse 2" class="cls-12" cx="18.5" cy="19.5" rx="18.5" ry="19.5" transform="translate(207 152)"/>
+      <path id="Ellipse_2_-_Outline" data-name="Ellipse 2 - Outline" class="cls-13" d="M18.5,1A16.924,16.924,0,0,0,6.144,6.4a18.53,18.53,0,0,0-3.762,5.882,19.541,19.541,0,0,0,0,14.436A18.53,18.53,0,0,0,6.144,32.6a16.837,16.837,0,0,0,24.712,0,18.53,18.53,0,0,0,3.762-5.882,19.541,19.541,0,0,0,0-14.436A18.53,18.53,0,0,0,30.856,6.4,16.924,16.924,0,0,0,18.5,1m0-1C28.717,0,37,8.73,37,19.5S28.717,39,18.5,39,0,30.27,0,19.5,8.283,0,18.5,0Z" transform="translate(207 152)"/>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(-1169 363)">
+      <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-14" width="341" height="144" rx="26" transform="translate(1201 65)"/>
+    </g>
+    <rect id="Rectangle_23" data-name="Rectangle 23" class="cls-15" width="333" height="53" rx="26.5" transform="translate(40 307)"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(-507 368)">
+      <text id="Search_with_name_" data-name="Search with name " class="cls-16" transform="translate(669 -30)"><tspan x="-78.144" y="0">Search with name </tspan></text>
+      <image id="search" width="25" height="25" transform="translate(776 -47)" xlink:href="../../Downloads/search.png"/>
+    </g>
+    <text id="_" data-name="
+" class="cls-17" transform="translate(149 479)"><tspan x="0" y="0"></tspan><tspan x="0" y="19"></tspan></text>
+    <text id="EMP_ID_:_2" data-name="EMP ID    : 2" class="cls-18" transform="translate(77 452)"><tspan x="-36.169" y="0" xml:space="preserve">EMP ID    : 2</tspan></text>
+    <text id="Name_:" data-name="Name     :" class="cls-18" transform="translate(40 482)"><tspan x="0" y="0" xml:space="preserve">Name     :</tspan></text>
+    <g id="Group_4" data-name="Group 4" transform="translate(-38 143)">
+      <text id="_:15-01-2000" data-name="       :15-01-2000" class="cls-19" transform="translate(108 367)"><tspan x="0" y="0" xml:space="preserve">       :15-01-2000</tspan></text>
+      <text id="DOB" class="cls-20" transform="translate(94 367)"><tspan x="-12.616" y="0">DOB</tspan></text>
+    </g>
+    <text id="Role_:" data-name="Role        :" class="cls-18" transform="translate(40 538)"><tspan x="0" y="0" xml:space="preserve">Role        :</tspan></text>
+    <text id="Mahesh" class="cls-18" transform="translate(126 481)"><tspan x="-22.547" y="0">Mahesh</tspan></text>
+    <g id="Repeat_Grid_55" data-name="Repeat Grid 55" class="cls-21" transform="translate(103 527)">
+      <g transform="translate(-109 -525)">
+        <g id="Repeat_Grid_56" data-name="Repeat Grid 56" class="cls-21" transform="translate(109 525)">
+          <g transform="translate(-109 -525)">
+            <text id="Web_Developer" data-name="Web Developer" class="cls-22" transform="translate(160 540)"><tspan x="-46.071" y="0">Web Developer</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="_2" data-name=" " class="cls-20" transform="translate(231 672)"><tspan x="-1.958" y="0"> </tspan></text>
+    <text id="_3" data-name="
+" class="cls-20" transform="translate(181 685)"><tspan x="0" y="0"></tspan><tspan x="0" y="15"></tspan></text>
+    <image id="back" width="35" height="35" transform="translate(189 584)" xlink:href="../../Downloads/back.jpg"/>
+    <text id="back-2" data-name="back" class="cls-23" transform="translate(206 638)"><tspan x="-21.738" y="0">back</tspan></text>
+    <g id="Group_40" data-name="Group 40">
+      <rect id="Rectangle_35" data-name="Rectangle 35" class="cls-1" width="66" height="71" transform="translate(173 579)"/>
+    </g>
+  </g>
+</svg>
